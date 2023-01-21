@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 21.375, 17.625" name="Smart1InstallmentDataClasses">
+  <DataContextMoniker Name="/Smart1InstallmentDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="67021bf0-3049-42a1-88a7-19509c33ce36" absoluteBounds="0.75, 0.75, 2, 5.0400211588541657">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ffcf251f-d366-4480-a4bf-4ccf9a046520" absoluteBounds="0.765, 1.21, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7c26831a-6457-46a7-b5a8-9116aaffe37d" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/AccountFlag" />
+      <nestedChildShapes>
+        <elementListCompartment Id="65d16b05-3189-4e67-8af5-85ce55668b72" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ed15ff7-884e-48dc-9673-0be7d3594eba" absoluteBounds="3.75, 3.75, 2, 4.6554182942708326">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/AccountPayment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="156f6c6b-bb71-40d7-8421-5e3555b8e6b5" absoluteBounds="3.765, 4.21, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c37c8764-8427-439b-b5d9-61048726e49b" absoluteBounds="6.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/Action" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7228adcc-c01e-4a8d-a1d3-fff252b3e3f1" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4322702f-3ea3-4809-91cb-5c800bef412e" absoluteBounds="6.75, 3.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/ActionDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="afd08525-5e2e-40e5-a848-16b279099b7d" absoluteBounds="6.765, 4.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="780a3a0b-909a-41e8-860b-38f0ddae66a7" absoluteBounds="6.75, 6.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/Company" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6bbc9f97-375e-4529-98b7-4d13cb03bbf3" absoluteBounds="6.765, 7.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e7a2518e-cf7f-4cc1-ac83-1f97e4fdaf5c" absoluteBounds="9.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/DocType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cf6493cf-91c6-4787-9708-1a1f4c832bbd" absoluteBounds="9.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="265280c9-5ad5-4fa0-9aaa-8fe8a832770f" absoluteBounds="0.75, 9.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/ExpensesAndIncomeData" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3899fd1a-9d91-45f8-9ae2-5e3b59df4e67" absoluteBounds="0.765, 10.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="27d1d267-9824-4954-a2a3-b307ed9fbca2" absoluteBounds="9.75, 2.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/Group" />
+      <nestedChildShapes>
+        <elementListCompartment Id="333a27d2-8c06-486b-86f2-3968f3137086" absoluteBounds="9.765, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d2ec3eb4-2bbc-4a88-b75b-094c330d9858" absoluteBounds="3.75, 9.75, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/InstallMent" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a190c3f4-48ec-428e-9d5a-c421f437b01e" absoluteBounds="3.765, 10.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2916c5ba-783c-4c9b-a9a7-e9280be3e6ce" absoluteBounds="9.75, 5.75, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/InstallMentDiscountNotice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c7f496f-312a-40bc-82d3-dadaab99ab0a" absoluteBounds="9.765, 6.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0931b291-74bc-40d0-bc1d-e78156587704" absoluteBounds="9.75, 9.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/InvoiceDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5fc84ce6-973a-41ad-b518-ee59df4343c1" absoluteBounds="9.765, 10.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bf26d8db-9eb2-497e-85e3-498e448767f6" absoluteBounds="0.75, 13.75, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/JobFlag" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1dab1f2d-68db-4416-a880-a4bec3861b5e" absoluteBounds="0.765, 14.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9553a654-66db-488b-9262-3b2ced8d2ea2" absoluteBounds="15.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/PaymentType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="455fa55c-3f19-4900-bcf0-06f016bb985f" absoluteBounds="15.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4be34658-e16b-47db-940a-499a22c1c7e6" absoluteBounds="15.75, 2.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/Rank" />
+      <nestedChildShapes>
+        <elementListCompartment Id="74a17608-b528-4239-a31b-1d0815dacdb3" absoluteBounds="15.765, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3fb8cb7b-e389-42e0-8c42-8cd72886e10f" absoluteBounds="15.75, 5.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/RankActionDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1441a60e-fe25-463b-bb6e-b37c708492d0" absoluteBounds="15.765, 6.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="602029dc-bec4-4c09-a545-57441dd84e22" absoluteBounds="15.75, 8.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f95b2aa4-c94a-4e80-8f17-ff17ad9b3027" absoluteBounds="15.765, 9.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="da6e1527-5ff2-40de-bc5c-e26b84ba5acf" absoluteBounds="9.75, 15.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/UserAction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea6dfd6c-8de8-4e9b-a2d7-68aa58f03c9a" absoluteBounds="9.765, 16.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bb25e159-5299-48d0-9c76-f6baf2e790b4" absoluteBounds="12.875, 12.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/Job" />
+      <nestedChildShapes>
+        <elementListCompartment Id="68467b13-297b-47e5-9d99-9c1623884fa0" absoluteBounds="12.89, 13.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2370973b-5600-4bc2-850d-42b12d567bb1" absoluteBounds="0.875, 6.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/MovementType" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e66564c-578d-45d4-a04f-97331d5a0ccf" absoluteBounds="0.88999999999999968, 6.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d390ecec-df7a-4b03-aea3-6a2a0913e757" absoluteBounds="13.125, 1.375, 2, 2.5401025390625">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/Item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6cf3ace1-d993-47d8-a817-cb7c36eb8811" absoluteBounds="13.14, 1.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="764ba509-4bc0-4e9d-ad5e-16b1fb2d1118" absoluteBounds="19.125, 2.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/GroupDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e892daa1-dbb8-44a0-8552-1d753de199ba" absoluteBounds="19.14, 2.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="443fec09-1100-4fb2-a8d1-046c304212fe" absoluteBounds="12.875, 5.375, 2, 4.6554182942708326">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/ItemSerial" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70d9a2d9-1b35-4ee0-9066-7bb0d41617f7" absoluteBounds="12.89, 5.835, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="080754a7-cd8c-4491-8d7d-5ad2507a5907" absoluteBounds="6.625, 10.125, 2, 6.3861311848958326">
+      <DataClassMoniker Name="/Smart1InstallmentDataClassesDataContext/Invoice" />
+      <nestedChildShapes>
+        <elementListCompartment Id="35ed6447-2892-401a-9fb9-c1ee012601d2" absoluteBounds="6.64, 10.585, 1.9700000000000002, 5.826131184895833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
